@@ -78,12 +78,12 @@
 		<repository>
 			<id>releases</id>
 			<name>Release</name>
-			<url>http://nexus.nxin.com/nexus/content/repositories/releases/</url>
+			<url>https://nexus.nxin.com/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>Snapshot</name>
-			<url>http://nexus.nxin.com/nexus/content/repositories/snapshots/</url>
+			<url>https://nexus.nxin.com/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
